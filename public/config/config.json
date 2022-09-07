@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+  "SCAN_LINK": "https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e",
+  "NETWORK": {
+    "NAME": "etherscan",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Apes Sequad",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/apesequad",
+  "SHOW_BACKGROUND": true
+}
